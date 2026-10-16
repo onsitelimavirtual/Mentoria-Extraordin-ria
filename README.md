@@ -1,2 +1,2 @@
-# Mentoria-Extraordin-ria
+# Mentoria-Extraordinaria
 Mentoria Extraordinária para Concursos
